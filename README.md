@@ -1,3 +1,16 @@
+# Guide
+
+This app was built using this fabuous tutorial on httpclient: https://www.techiediaries.com/angular-11-tutorial-example-rest-crud-http-get-httpclient/
+This tutorial, gives a firm understanding on creating and using the various Angular framework functionalities. Like:
+
+## httpclient package
+
+## a brief intro on angular material
+
+## components, services and interface and used the type
+
+I did not do the firbase deployment as was not in need when I completed this tutorial.
+
 # NgHttpClientApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
